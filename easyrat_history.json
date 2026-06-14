@@ -1,0 +1,13 @@
+{
+  "output_name": [
+    "client3.exe",
+    "clientnew1.exe",
+    "clientnew.exe"
+  ],
+  "build_server_host": [
+    "loldonres-40453.portmap.host"
+  ],
+  "build_server_port": [
+    "40453"
+  ]
+}
